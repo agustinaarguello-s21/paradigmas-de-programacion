@@ -7,4 +7,3 @@ elif entrada<=0:
     print("numero de 1 digito")
 elif entrada>1000:
     print("numero de 4 digitos")
-else :
